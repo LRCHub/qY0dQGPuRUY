@@ -1,80 +1,128 @@
 {
   "version": 1,
-  "base_track": "対象a",
-  "base_artist": "anNina",
-  "createdAt": "2025-12-18T10:34:32.660711Z",
+  "base_track": "FaV",
+  "base_artist": "彩音",
+  "createdAt": "2025-12-18T10:34:46.617398Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "対象a (adonde vuelvo)",
-      "artist": "Annina",
-      "has_synced": false,
-      "path": "select/01_対象a_(adonde_vuelvo)_Annina.txt"
+      "title": "New Fav Thing",
+      "artist": "Danger Twins",
+      "has_synced": true,
+      "path": "select/01_New_Fav_Thing_Danger_Twins.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "対象a",
-      "artist": "Annina",
+      "title": "Fav Boyz (feat. Thutmose) - Steve Aoki's Gold Star Remix",
+      "artist": "A.C.E feat. Thutmose & Steve Aoki",
       "has_synced": true,
-      "path": "select/02_対象a_Annina.lrc"
+      "path": "select/02_Fav_Boyz_(feat._Thutmose)_-_Steve_Aoki's_Gold_Star_Remix_A.C.E_feat._Thutmose_&_Steve_Aoki.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "対象a",
-      "artist": "anNina",
+      "title": "Fav Boyz (Steve Aoki's Gold Star Remix)",
+      "artist": "A.C.E; Thutmose; Steve Aoki",
       "has_synced": true,
-      "path": "select/03_対象a_anNina.lrc"
+      "path": "select/03_Fav_Boyz_(Steve_Aoki's_Gold_Star_Remix)_A.C.E;_Thutmose;_Steve_Aoki.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "対象a Instrumental",
-      "artist": "anNina",
-      "has_synced": false,
-      "path": "select/04_対象a_Instrumental_anNina.txt"
+      "title": "Fav Boyz (feat. Thutmose) (Steve Aoki's Gold Star Remix)",
+      "artist": "A.C.E",
+      "has_synced": true,
+      "path": "select/04_Fav_Boyz_(feat._Thutmose)_(Steve_Aoki's_Gold_Star_Remix)_A.C.E.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "対象a - instrumental",
-      "artist": "anNina",
-      "has_synced": false,
-      "path": "select/05_対象a_-_instrumental_anNina.txt"
+      "title": "Girlfriends Fav MC",
+      "artist": "Mims feat. J. Holiday",
+      "has_synced": true,
+      "path": "select/05_Girlfriends_Fav_MC_Mims_feat._J._Holiday.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "対象a",
-      "artist": "anNina",
+      "title": "Girlfriends Fav MC (feat. J. Holiday)",
+      "artist": "Mims",
       "has_synced": true,
-      "path": "select/06_対象a_anNina.lrc"
+      "path": "select/06_Girlfriends_Fav_MC_(feat._J._Holiday)_Mims.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "対象a （Instrumental）",
-      "artist": "anNina",
-      "has_synced": false,
-      "path": "select/07_対象a_(Instrumental)_anNina.txt"
+      "title": "fav flav (with Duckwrth)",
+      "artist": "Dua Saleh feat. Duckwrth",
+      "has_synced": true,
+      "path": "select/07_fav_flav_(with_Duckwrth)_Dua_Saleh_feat._Duckwrth.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "対象a",
-      "artist": "anNina (Annabel×bermei．inazawa)",
+      "title": "fav flav (with Duckwrth)",
+      "artist": "Dua Saleh",
       "has_synced": true,
-      "path": "select/08_対象a_anNina_(Annabel×bermei.inazawa).lrc"
+      "path": "select/08_fav_flav_(with_Duckwrth)_Dua_Saleh.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "F.Y.F.R (Fuck Ur Fav Rapper)",
+      "artist": "Ace Hood",
+      "has_synced": false,
+      "path": "select/09_F.Y.F.R_(Fuck_Ur_Fav_Rapper)_Ace_Hood.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girlfriends Fav MC",
+      "artist": "Mims",
+      "has_synced": false,
+      "path": "select/10_Girlfriends_Fav_MC_Mims.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fav Boyz (feat. Thutmose) - Steve Aoki's Gold Star Remix",
+      "artist": "A.C.E/Thutmose/Steve Aoki",
+      "has_synced": true,
+      "path": "select/11_Fav_Boyz_(feat._Thutmose)_-_Steve_Aoki's_Gold_Star_Remix_A.C.E_Thutmose_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fav Boyz - Steve Aoki's Gold Star Remix",
+      "artist": "A.C.E feat. Steve Aoki",
+      "has_synced": true,
+      "path": "select/12_Fav_Boyz_-_Steve_Aoki's_Gold_Star_Remix_A.C.E_feat._Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fav Boyz - Steve Aoki's Gold Star Remix",
+      "artist": "A.C.E/Steve Aoki",
+      "has_synced": true,
+      "path": "select/13_Fav_Boyz_-_Steve_Aoki's_Gold_Star_Remix_A.C.E_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fav Blue",
+      "artist": "Tia Ray",
+      "has_synced": true,
+      "path": "select/14_Fav_Blue_Tia_Ray.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "対象a",
-      "artist": "anNina",
+      "title": "FaV",
+      "artist": "彩音",
       "has_synced": false,
-      "path": "select/pl_01_対象a_anNina.txt"
+      "path": "select/pl_01_FaV_彩音.txt"
     }
   ]
 }
