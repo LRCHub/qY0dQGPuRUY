@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "対象a",
+  "base_artist": "anNina",
+  "createdAt": "2025-12-18T10:34:32.660711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "対象a (adonde vuelvo)",
+      "artist": "Annina",
+      "has_synced": false,
+      "path": "select/01_対象a_(adonde_vuelvo)_Annina.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "対象a",
+      "artist": "Annina",
+      "has_synced": true,
+      "path": "select/02_対象a_Annina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "対象a",
+      "artist": "anNina",
+      "has_synced": true,
+      "path": "select/03_対象a_anNina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "対象a Instrumental",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/04_対象a_Instrumental_anNina.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "対象a - instrumental",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/05_対象a_-_instrumental_anNina.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "対象a",
+      "artist": "anNina",
+      "has_synced": true,
+      "path": "select/06_対象a_anNina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "対象a （Instrumental）",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/07_対象a_(Instrumental)_anNina.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "対象a",
+      "artist": "anNina (Annabel×bermei．inazawa)",
+      "has_synced": true,
+      "path": "select/08_対象a_anNina_(Annabel×bermei.inazawa).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "対象a",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/pl_01_対象a_anNina.txt"
+    }
+  ]
+}
